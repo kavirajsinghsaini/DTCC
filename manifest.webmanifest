@@ -2,7 +2,7 @@
   "id": "./",
   "name": "KTC Personal Messenger",
   "short_name": "KTC Messenger",
-  "description": "Kaviraj Transport Corporation chat and ticket booking demo",
+  "description": "DELHI Transport Corporation chat and ticket booking ",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
