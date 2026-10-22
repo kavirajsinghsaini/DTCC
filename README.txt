@@ -11,7 +11,7 @@ Put each photo in the SAME folder as index.html and use these exact names:
 - BUBU.jpg        -> BUBU ❤️ contact
 - DAD.jpg         -> DAD contact
 - BHAI.jpg        -> BHAI contact
-- Kaviraj-Transport-Corporation.jpg -> KTC / Kaviraj Transport Corporation contact
+- DELHI-Transport-Corporation.jpg -> KTC / DELHI Transport Corporation contact
 
 For each profile photo, JPG or PNG works only if the app code is set to that exact extension. In the current code the personal contacts look for the JPG names above. To keep it simple, use .jpg for profile photos. The app icon specifically uses PNG.
 
